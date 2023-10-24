@@ -1,3 +1,4 @@
+
 ul {
     list-style-type: none;
     padding: 0px;
@@ -1860,7 +1861,7 @@ img {
         margin: 0px;
         padding: 0px;
         margin-right: 7px;
-        background-image: url(/images/svg/check.svg);
+        background-image: url(/images/sprite.svg/icon-check);
         background-color: #fff;
         background-size: contain;
         background-position: center;
@@ -3157,7 +3158,7 @@ img {
         margin: 0px;
         padding: 0px;
         margin-right: 7px;
-        background-image: url(/images/svg/check.svg);
+        background-image: url(/images/sprite.svg/icon-check);
         background-color: #fff;
         background-size: contain;
         background-position: center;
