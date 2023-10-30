@@ -536,9 +536,9 @@ img {
         height: 11px;
         border: 2px solid #212121;
         border-radius: 2px;
-        margin: 0px;
-        padding: 0px;
-        margin-right: 7px;
+        margin: 5px;
+        padding: 2px;
+        margin-right: 22px;
         background-image: url(/images/sprite.svg/icon-check-new);
         background-color: #fff;
         background-size: contain;
@@ -589,7 +589,9 @@ img {
 
     .form__field--accept {
         margin-top: 30px;
-        margin-bottom: 0px
+        margin-bottom: 0px;
+        justify-content: center;
+
     }
 
     .form__submit {
